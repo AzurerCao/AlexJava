@@ -1,0 +1,1 @@
+This is Alex's Sample or template Java Web project.
